@@ -9,9 +9,9 @@
 class HerdrPager < Formula
   desc "Pager for the herdr agent console: the bridge, and the firmware it flashes"
   homepage "https://github.com/MaverickHQ/herdr-pager"
-  url "https://github.com/MaverickHQ/herdr-pager/releases/download/v1.0.0/herdr-pager_1.0.0_darwin_arm64.tar.gz"
-  sha256 "09ff56f8949eec79c1ad87724cab625e3c0937ce89ea908c509f891dcf76fbf2"
-  version "1.0.0"
+  url "https://github.com/MaverickHQ/herdr-pager/releases/download/v1.0.1/herdr-pager_1.0.1_darwin_arm64.tar.gz"
+  sha256 "f875864e0399f0ed31648ee2910a91a94e9ade032643b4d330ebd0fc8954fdfc"
+  version "1.0.1"
   # herdr-pager's own licence. The archive's licenses/ and THIRD_PARTY.md hold
   # the third-party software's, libssh's LGPL-2.1 among them; the release
   # carries libssh's source.
